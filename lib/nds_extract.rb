@@ -9,7 +9,7 @@ def gross_for_director(director_data)
     
     i += 1
   end
-  puts director_data
+  pp director_data
   nil
 end
 
